@@ -11,14 +11,3 @@ entries:
     urls:
     - flm-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2026-08-15T14:30:15.121846283Z"
-    description: A Helm chart for Kubernetes
-    digest: 7ac1626fb6e13f401414fbf751379d427bc31757326b0fb8c3dc772b753f92f9
-    name: flm
-    type: application
-    urls:
-    - Helm_Dm/flm-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-08-15T14:30:15.12078338Z"
