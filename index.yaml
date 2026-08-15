@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   flm:
   - apiVersion: v2
-    appVersion: 1.16.0
+    appVersion: latest
     created: "2026-08-15T12:46:46.303193114Z"
     description: A Helm chart for Kubernetes
     digest: 7ac1626fb6e13f401414fbf751379d427bc31757326b0fb8c3dc772b753f92f9
